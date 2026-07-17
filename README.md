@@ -1,4 +1,4 @@
-# BioFAIR GitHub Organisations Governance
+# BioFAIR GitHub Organisation Governance
 Welcome to the BioFAIR GitHub Organisation Governance. Here we describe the set up of the GitHub organsiation with the rights and responsibilities of the members. Read on if you want more information on how to contribute to this repository.
 
 BioFAIR is a Hub and Spoke model with several Commons: Data, People, Methods and Knowledge Hub. Members of the Commons will be actively contributing to the GitHub organisation.
